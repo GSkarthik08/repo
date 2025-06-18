@@ -1,4 +1,5 @@
 # python-interview-questions 
+# prepared by karthik
 # 1.Difference between list and tuple in python?
 # List:
 - list is mutable(change,add,remove elements)
